@@ -1,0 +1,3 @@
+1,Income,Salary,25000.0,2026-10-13,Monthly Salary
+2,Expense,Food,500.0,2026-10-20,Groceries
+1,Income,Tutoring,800.0,2026-10-21,Tutoring 
