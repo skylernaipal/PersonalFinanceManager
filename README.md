@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Personal Finance Manager
 A Java personal finance management application that allows users to:
 
@@ -24,6 +23,3 @@ Future Improvements
 SQLite Database Integration
 JavaFX GUI
 Charts and Analytics Dashboard
-=======
-# PersonalFinanceManager
->>>>>>> 5532eb5fa8858699614518aceca4929bf2df1070
